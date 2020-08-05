@@ -8,4 +8,9 @@
 - Estudo Angular boas práticas para construção de API's. Pretendo conhecer um pouco de React e Python.
 - Sou formado em Ciências da Computação pela Estácio (2016-2019).
 - Também conclui um curso técnico de informática no Centro Paula Souza - ETEC (2013-2014).
+
+- Meus contatos:
+  Celular/Whatsapp: (16) 99233-6807
+  E-mail: felipe.ranzoni@hotmail.com / felipe.ranzoni@gmail.com
+  Linkedln: https://www.linkedin.com/in/felipe-ranzoni-borges-5357a890/
 -->
