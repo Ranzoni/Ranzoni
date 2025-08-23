@@ -8,4 +8,4 @@ Possuo conhecimentos em C#, NET, Python, Delphi, SQL Server, Oracle, Angular, Re
 
 Meu contatos:
 
-  E-mail: felipe.ranzoni@hotmail.com | LinkedIn: https://www.linkedin.com/in/felipe-ranzoni-borges-5357a890/ | Portfólio: https://sharemygame.com/@Ranzoni
+  E-mail: felipe.ranzoni@hotmail.com | LinkedIn: https://www.linkedin.com/in/felipe-ranzoni-borges-5357a890/ | Portfólio: https://ranzoni.github.io/portfolio/
