@@ -1,10 +1,10 @@
 ### Olá! 👋
 
-Me chamo Felipe Ranzoni Borges e atuo como desenvolvedor de software há mais de dez anos, atualmente trabalho na empresa Profits Consulting.
+Me chamo Felipe Ranzoni Borges e atuo como engenheiro de Software há mais de 10 anos, com experiência em ERPs, automação de processos e soluções de integração.
 
-Na minha trajetória já passei por empresas como a Consinco e a TOTVS. E, também, me aventuro desenvolvendo jogos digitais.
+Sou formado em Ciência da Computação desde 2019. Especialista em .NET, com histórico de entregar sistemas escaláveis para grandes players como TOTVS e Consórcios. Atualmente atuo no desenvolvimento de soluções de IA aplicada a ERP, integrando inovação com resultados reais para empresas.
 
-Sou formado em Ciência da Computação e já trabalhei com C#, Python, Delphi, SQL Server, Oracle, Angular, React, JavaScript, .NET Framework, .NET Core, SVN, Git, Unity, entre outros.
+Possuo conhecimentos em C#, NET, Python, Delphi, SQL Server, Oracle, Angular, React, JavaScript, HTML, CSS, Git, Unity, entre outros.
 
 Meu contatos:
 
